@@ -29,6 +29,7 @@ body {
 .top-nav {
     margin: 0 auto;
     position: sticky;
+    z-index: 10;
     top: 40px;
     filter: drop-shadow(0em 0em 5px rgb(200, 200, 200));
 }
